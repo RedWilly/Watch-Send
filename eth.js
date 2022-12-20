@@ -7,7 +7,7 @@ const apiKey = 'API_KEY'; //Etherscan API
 const privateKey = 'WALLET_ADDRESS1_PRIVATE_KEY';
 const recipientAddress = 'YOUR_WALLET_ADDRESS';
 
-const web3 = new Web3(new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/384a4d7c08be4d9bb11183090df1295f'));
+const web3 = new Web3(new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/INFURE_KEY_HERE')); //https://app.infura.io/
 
 setInterval(() => {
   console.log('Checking balance...');
