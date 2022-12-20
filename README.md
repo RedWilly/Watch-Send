@@ -6,5 +6,5 @@ so you can use this script to monitor any public know private key/address for an
 ### FYI 
 This is only for educational purpose only 
 
-[npm install https
-npm install web3]
+[npm install https]
+{npm install web3}
